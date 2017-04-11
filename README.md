@@ -4,12 +4,29 @@ A simple PowerShell profile to make its console window look a bit like the Termi
 ![Screenshot](/PoshX-small.png)
 
 ## Installation
-1. Copy the ps1-file into the PowerShell profile folder:
+1. Head over to the PowerShell profile folder:
 
-`default: C:\Users\{USERNAME}\Documents\WindowsPowerShell`
+    `default: C:\Users\{USERNAME}\Documents\WindowsPowerShell`
+    
+    If there's **no profile** file yet, simple **copy** the ps1-file into that folder.
+    
+    If there's **already a profile** file, **merge** the contents from the ps1-file to it.
 
-2. You might need to set the backcolor to "White" manually once. *Run PowerShell, right-click the title bar, go to "Properties", tab "Colors", checkbox "Screen Background" and choose "White". You can close the PowerShell console now.*
+2. You might need to set the backcolor to "White" manually once.
+    * Run PowerShell
+    * Right-click the title bar
+    * Go to "Properties", tab "Colors"
+    * Select the checkbox "Screen Background"
+    * Choose "White"
+    * Close the PowerShell console
 
 New instances will start in the desired new style.
 
-Have fun.
+## Uninstall
+If you merged the file contents in Installation step 1, simply remove the inserted lines again.
+
+If you copied the whole file to the PowerShell profile folder, simply delete it again.
+
+You may reset the backcolor manually again (like shown in step 2) if you set it during the installation.
+
+#### Have fun.
