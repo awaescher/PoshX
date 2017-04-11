@@ -1,10 +1,10 @@
 # PoshX
-A simple PowerShell profile to make it look a bit like the Terminal on OSX.
+A simple PowerShell profile to make its console window look a bit like the Terminal on OSX.
 
-![Screenshot](/PoshX.png)
+![Screenshot](/PoshX-small.png)
 
 ## Installation
- Copy the ps1-file into the PowerShell profile folder:
+Copy the ps1-file into the PowerShell profile folder:
 
 default: C:\Users\{USERNAME}\Documents\WindowsPowerShell
 
