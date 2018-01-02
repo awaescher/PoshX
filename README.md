@@ -10,9 +10,9 @@ A simple PowerShell profile to make its console window look a bit like the Termi
 ## Installation
 1. Head over to the PowerShell profile folder:
 
-    `default: C:\Users\{USERNAME}\Documents\WindowsPowerShell`
+    default: `C:\Users\{USERNAME}\Documents\WindowsPowerShell`
     
-    If there's **no profile** file yet, simple **copy** the ps1-file into that folder.
+    If there's **no profile** file yet, simply **copy** the ps1-file into that folder.
     
     If there's **already a profile** file, **merge** the contents from the ps1-file to it.
 
