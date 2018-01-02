@@ -5,7 +5,7 @@ A simple PowerShell profile to make its console window look a bit like the Termi
 > The screenshots show some Git hints from the powerful PowerShell extension [posh-git](https://github.com/dahlbyk/posh-git).
 > To match the brighter look in the right window, the default colors were slightly modified.
 >
-> Use [my customized fork of posh-git](https://github.com/awaescher/posh-git) to get the same look with PoshX.
+> Use [the customized fork poshx-git](https://github.com/awaescher/posh-git) to get the same look with PoshX.
 
 ## Installation
 1. Head over to the PowerShell profile folder:
