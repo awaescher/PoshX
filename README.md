@@ -2,6 +2,10 @@
 A simple PowerShell profile to make its console window look a bit like the Terminal on OSX.
 
 ![Screenshot](/PoshX-small.png)
+> The screenshots show some Git hints from the powerful PowerShell extension [posh-git](https://github.com/dahlbyk/posh-git).
+> To match the brighter look in the right window, the default colors were slightly modified.
+>
+> Use [my customized fork of posh-git](https://github.com/awaescher/posh-git) to get the same look with PoshX.
 
 ## Installation
 1. Head over to the PowerShell profile folder:
@@ -29,7 +33,3 @@ If you copied the whole file to the PowerShell profile folder, simply delete it 
 
 You may reset the backcolor manually again (like shown in step 2) if you set it during the installation.
 
-#### Have fun.
-
-> The screenshots show some commands with the powerful PowerShell extension [posh-git](https://github.com/dahlbyk/posh-git).
-> The default colors used in posh-git were slightly modified to match the brighter look.
