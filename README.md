@@ -16,13 +16,15 @@ A simple PowerShell profile to make its console window look a bit like the Termi
     
     If there's **already a profile** file, **merge** the contents from the ps1-file to it.
 
-2. You might need to set the backcolor to "White" manually once.
+2. If you open a new PowerShell window, you should see a mix if the old background combined with a white background around the text. To fix this, you need to set the backcolor to "White" manually **once**.
     * Run PowerShell
     * Right-click the title bar
     * Go to "Properties", tab "Colors"
     * Select the checkbox "Screen Background"
     * Choose "White"
     * Close the PowerShell console
+    
+3. *Optional:* I'd say that the default font is not that appealing. For me the font `Consolas 15pt` works best. This can be changed in the same dialog as seen in step 2. under the tab "Font".
 
 New instances will start in the desired new style.
 
