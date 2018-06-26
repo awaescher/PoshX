@@ -1,5 +1,5 @@
 # PoshX
-A simple PowerShell profile to make its console window look a bit like the Terminal on OSX.
+A simple PowerShell profile to make its console window look a bit like the Terminal on macOS.
 
 ![Screenshot](/PoshX-small.png)
 > The screenshots show some Git hints from the powerful PowerShell extension [posh-git](https://github.com/dahlbyk/posh-git).
